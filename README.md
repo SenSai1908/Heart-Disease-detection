@@ -33,15 +33,16 @@ The dataset used in this project is stored in `heart.csv` and contains the follo
 
 1. Clone the repository:
    ```bash
+
    git clone https://github.com/SenSai1908/Heart-Disease-detection
    ```
 2.Navigate to the project directory:
   ```bash
-cd heart-disease-prediction
+   cd heart-disease-prediction
   ```
 3.Install the required libraries:
   ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
   ```
 
 ## Usage
@@ -85,8 +86,11 @@ Evaluation:
 
 ## Contributing
 
-- Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
+   Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
   
+## License
+
+   This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
 
